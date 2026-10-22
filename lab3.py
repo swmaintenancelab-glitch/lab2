@@ -1,0 +1,1 @@
+y= input("enter your age")
